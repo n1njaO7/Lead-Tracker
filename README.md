@@ -11,13 +11,6 @@ The Lead Tracker Extension is a simple tool that helps users save and manage URL
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files](#files)
-- [Code Explanation](#code-explanation)
-  - [HTML](#html)
-  - [CSS](#css)
-  - [JavaScript](#javascript)
-  - [manifest.json](#manifest.json)
-  - [package.json](#package.json)
-  - [vite.config.js](#vite.config.js)
 
 ## Features
 
